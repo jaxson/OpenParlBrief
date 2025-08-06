@@ -8,7 +8,7 @@ A project scope for an open-source AI agent that could monitor Canadian parliame
 
 ## What's Here
 
-This repository contains the initial planning and scoping work for what could become an autonomous parliamentary monitoring system. See [plan.md](plan.md) for the complete project scope, technical architecture, and implementation ideas.
+This repository contains the initial planning and scoping work for what could become an autonomous parliamentary monitoring system. See [plan.md](plan.md) for the project scope, proposed technical architecture, and implementation ideas.
 
 ## Background
 
